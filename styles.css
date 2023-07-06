@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   text-align: center;
-  background: url(img/image1.jpg) no-repeat center center/ cover;
+  background: url(image1.jpg) no-repeat center center/ cover;
 }
 
 .container {
